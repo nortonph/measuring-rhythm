@@ -1,7 +1,12 @@
 # measuring-rhythm
 Companion code and examples for [Ravignani &amp; Norton (2017)](https://doi.org/10.1093/jole/lzx002)
 
-What follows is the supplementary document, describing the code and its usage.
+![fig_6](https://github.com/user-attachments/assets/84b8518e-cee7-4c24-ae54-12c2a037f17e)
+**Figure 6.** Step-by-step visualization of the phase portrait of the rhythmic sequence (a–e) and portraits of all five example patterns (f–j). 
+
+What follows is the supplementary document describing the code and its usage.
+
+---
 
 ## Measuring rhythmic complexity: A primer to quantify and compare temporal structure in speech, movement, and animal vocalizations
 
